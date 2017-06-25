@@ -1,4 +1,5 @@
-__author__ = "Samuel Bancroft"                              # Author name
+__author__ = "Mr Bancroft"                                  # Author name
+
 greeting = "Hello "                                         # Creates a variable called greeting, note space after text
 name = input("Please enter your name: ")                    # Creates a variable called input and get the value from
                                                             # the command prompt
